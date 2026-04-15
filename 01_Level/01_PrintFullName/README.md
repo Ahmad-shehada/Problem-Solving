@@ -4,8 +4,9 @@
 ***
 
 ## Function Specification
-* **Description** : This problem **prints** the full name in the **console**.
-* **Input** : **const String&** FullName **(Passed by Reference)**.
+### 1.PrintFullName(const string& FullName)
+* **Description** : This function **prints** the full name in the **console**.
+* **Input** : **FullName**(String) - *Pass by Const Reference*.
 * **Output** : **None** (Procedure only).<br>
 **Note** : **Full Name** is passed by **Const Reference** to **avoid** unnecessary memory copying <br>
 and **ensure** the original data remains unchanged
@@ -13,8 +14,8 @@ and **ensure** the original data remains unchanged
 ## Pseudocode
 
 ```text
-Function PrintFullName(FullName)
-	Print FullName
+Function PrintFullName(ConstByRef FullName)
+  Print FullName
 End Function
 ```
 
@@ -22,5 +23,5 @@ End Function
 ![PrintFullName FlowChart](FlowChart.svg)
 
 ## Usage
-* **Run** [main.cpp](main.cpp) to see the output in the **console**
+* **Run** [main.cpp](main.cpp) to see the **program's output** in the **console**
 ***
