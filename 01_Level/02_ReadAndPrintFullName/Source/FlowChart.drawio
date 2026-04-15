@@ -42,13 +42,13 @@
         <mxCell id="VDdQEvZOFAAB8DIpjvNm-4" edge="1" parent="1" source="VDdQEvZOFAAB8DIpjvNm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="VDdQEvZOFAAB8DIpjvNm-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDdQEvZOFAAB8DIpjvNm-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Print Message&lt;div&gt;Read String&lt;/div&gt;" vertex="1">
+        <mxCell id="VDdQEvZOFAAB8DIpjvNm-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Print Message&lt;div&gt;Read Text&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="160" as="geometry" />
         </mxCell>
         <mxCell id="VDdQEvZOFAAB8DIpjvNm-6" edge="1" parent="1" source="VDdQEvZOFAAB8DIpjvNm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;" target="VDdQEvZOFAAB8DIpjvNm-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDdQEvZOFAAB8DIpjvNm-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Return String" vertex="1">
+        <mxCell id="VDdQEvZOFAAB8DIpjvNm-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Return Text" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="270" as="geometry" />
         </mxCell>
         <mxCell id="VDdQEvZOFAAB8DIpjvNm-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" value="End Function" vertex="1">

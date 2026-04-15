@@ -7,12 +7,12 @@ using namespace std;
 
 string ReadString(const string& Message)
 {
-	string FullName = "";
+	string Text = "";
 
 	cout << Message;
-	getline(cin, FullName);
+	getline(cin, Text);
 
-	return FullName;
+	return Text;
 }
 void PrintFullName(const string& FullName)
 {
