@@ -6,7 +6,7 @@
 ## Function Specification
 ### 1.ReadString(const string& Message) - *Generic Function (MyInput.h Library)*
 * **Description** : This function **displays** a message and **prompts** the user to enter a String
-* **Input** : **Message**(String) - *Pass by Const Reference*
+* **Input** : (**Message**(String), **MessageError**(String)) - *Pass by Const Reference*
 * **Output** : **String**
 
 
@@ -19,9 +19,9 @@ Call by **Const Reference** was explained in **[PrintFullName](../01_PrintFullNa
 ## Pseudocode
 
 ```text
-Function ReadString(ConstByRef Message)
+Function ReadString(ConstByRef Message, ConstByRef MessageError)
   Print Message
-  Read Text
+  Set Text = GetValidInput(MessageError)
   Return Text
 End Function
 ```
@@ -31,6 +31,8 @@ Execution Flow
   Call PrintFullName(FullName)
 End Flow
 ```
+
+**Note** : This function uses [GetValidInput]() in [MyInput.h ]() Library
 
 ## Flowchart
 
