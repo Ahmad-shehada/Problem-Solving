@@ -32,7 +32,7 @@ Execution Flow
 End Flow
 ```
 
-**Note** : This function uses [GetValidInput]() in [MyInput.h ]() Library
+**Note** : This function uses [GetValidInput](https://github.com/Ahmad-shehada/My-Cpp-Libreries/blob/main/Include/MyInput.h#L14) in [MyInput.h ](https://github.com/Ahmad-shehada/My-Cpp-Libreries/blob/main/Include/MyInput.h) Library
 
 ## Flowchart
 
