@@ -1,0 +1,25 @@
+***
+# (Title) Problem
+
+***
+
+## Function Specification
+### 1.FunctionName(dataType varName)
+* **Description** :
+* **Input** :
+* **Output** :
+
+**Note** :
+
+## Pseudocode
+```text
+
+
+```
+
+## Flowchart
+![Name](Path)
+
+## Usage
+* **Run** [main.cpp](main.cpp) to see the **program's output** in the **console**
+***
