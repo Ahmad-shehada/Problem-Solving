@@ -4,7 +4,7 @@
 ***
 
 ## Function Specification
-### 1.FunctionName(dataType varName)
+### 1.FunctionName(dataType varName) *Generic Function (MyInput.h Library)*
 * **Description** :
 * **Input** :
 * **Output** :
@@ -18,8 +18,9 @@
 ```
 
 ## Flowchart
-![Name](Path)
+![Name-FlowChart](Path)
 
 ## Usage
 * **Run** [main.cpp](main.cpp) to see the **program's output** in the **console**
 ***
+

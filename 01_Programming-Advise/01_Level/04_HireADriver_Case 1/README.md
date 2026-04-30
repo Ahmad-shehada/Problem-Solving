@@ -22,6 +22,9 @@
 
 ## Pseudocode
 ```text
-Function 
- 
+Function ReadShort(ConstByRef Message)
+  Print Message
+  Read Num
+  Return Num
+End Function
 ```

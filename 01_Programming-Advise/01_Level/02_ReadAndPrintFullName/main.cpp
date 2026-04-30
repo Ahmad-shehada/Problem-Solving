@@ -10,7 +10,7 @@ string ReadString(const string& Message)
 	string Text = "";
 
 	cout << Message;
-	getline(cin, Text);
+	getline(cin >> ws, Text);
 
 	return Text;
 }
