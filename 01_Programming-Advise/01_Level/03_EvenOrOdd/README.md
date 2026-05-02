@@ -5,35 +5,18 @@
 
 ## Function Specification
 ### 1.ReadInt(const string& Message) *Generic Function (MyInput.h Library)*
-* **Description** : This function **displays** a message and **prompts** the user to enter an int number
-* **Input** : **Message**(String) - *Pass by Const Reference*
-* **Output** : **int**
+* **Description** : To show details press on [**ReadInt**](https://github.com/Ahmad-shehada/My-Cpp-Libreries/blob/main/Documentation/MyInput/ReadInt)
 
 ### 2.isEven(int Num) *Generic Function (MyMath.h Library)*
-* **Description** : This function **checks** whether a given number is Even or Odd 
-*  **Input** : **Num**(int)
-*  **Output** : **boolean**
+* **Description** : To show details press on [**isEven**](https://github.com/Ahmad-shehada/My-Cpp-Libreries/blob/main/Documentation/MyMath/isEven)
 	
 ### 3.PrintEvenOrOdd(int Num)
 * **Description** : This procedure **prints** "Even"" to the console **if** the given **number** is Even **otherwise** prints "Odd""
 * **Input** : **Num**(int)
 * **Output** : **None** (Procedure only)
 
-**Note** : Call by **Const Reference** was explained in **[PrintFullName](../01_PrintFullName/README.md)** problem
 
 ## Pseudocode
-```text
-Function ReadInt(ConstByRef Message)
-  Print Message
-  Read Num
-  Return Num
-End Function
-```
-```text
-Function isEven(Num)
-  Return (Num mod 2 == 0)
-End Function
-```
 ```text
 Procedure PrintEvenOrOdd(Num)
   if isEven(Num) Then
